@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @haradhanadhikary
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... (email me: haradhan.adhikary@cern.ch)
+- 👀 I’m interested in SOFTWARE REALTED WORK
+- 🌱 I’m currently finishing my PhD in experimental high-energy physics
+- 💞️ I’m looking to collaborate on data analysis
+- 📫 email me: haradhan.adhikary@cern.ch
 
 <!---
 haradhanadhikary/haradhanadhikary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
