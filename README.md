@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haradhanadhikary
-- 👀 I’m interested in SOFTWARE REALTED WORK
+- 👀 I’m interested in Software related and data analysis work
 - 🌱 I’m currently finishing my PhD in experimental high-energy physics
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 email me: haradhan.adhikary@cern.ch
